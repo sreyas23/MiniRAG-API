@@ -1,6 +1,6 @@
 # Simple RAG Retrieval API (Django + DRF + FAISS)
 
-Hi, I’m **Sreya Sirivella**. I built this small backend to handle the **retrieval** half of RAG.  It lets me **ingest** text, **embed** it with `sentence-transformers` (`all-MiniLM-L6-v2`), store vectors in **FAISS**, and **query** similar text.  There’s also a **reset** endpoint to wipe everything. It runs locally on CPU and needs no external DB.
+Hi, I’m **Sreya.**. I built this small backend to handle the **retrieval** half of RAG.  It lets me **ingest** text, **embed** it with `sentence-transformers` (`all-MiniLM-L6-v2`), store vectors in **FAISS**, and **query** similar text.  There’s also a **reset** endpoint to wipe everything. It runs locally on CPU and needs no external DB.
 
 ---
 
